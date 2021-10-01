@@ -6,12 +6,12 @@ FLIP: https://github.com/NVlabs/flip.git
 
 LPIPS: https://github.com/richzhang/PerceptualSimilarity.git
 
-Download Both and put in your folder (not gonna provide recursive linking [here](https://github.com/alelopes/image-quality-metrics/blob/main/testing.yml)
+Download Both and put in your folder (not gonna provide recursive linking here.
 
 
 ## Running
 
-There is a conda env available for this step, if you think its useful (although the projects don't have many dependencies)
+There is a conda env [available](https://github.com/alelopes/image-quality-metrics/blob/main/testing.yml) for this step, if you think its useful (although the projects don't have many dependencies)
 
 
 #### Flip
