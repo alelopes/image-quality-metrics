@@ -6,7 +6,7 @@ FLIP: https://github.com/NVlabs/flip.git
 
 LPIPS: https://github.com/richzhang/PerceptualSimilarity.git
 
-Download Both and put in your folder (not gonna provide recursive linking here
+Download Both and put in your folder (not gonna provide recursive linking [here](https://github.com/alelopes/image-quality-metrics/blob/main/testing.yml)
 
 
 ## Running
